@@ -1,0 +1,30 @@
+{
+    "videos": [
+        {
+            "id": 1,
+            "titulo": "Cual es la diferencia entre Front End y Back End",
+            "video": "https://www.youtube.com/watch?v=R9uaBxgCkyA",
+            "imagen": "https://img.youtube.com/vi/R9uaBxgCkyA/maxresdefault.jpg",
+            "categoria": "Back End",
+            "descripcion": "¿Cuál es la diferencia entre Front End y Back End? #AluraMás"
+        },
+        {
+            "id": 2,
+            "titulo": "Como volverse un desarrollador Front End",
+            "video": "Cómo volverse un desarrollador Front End #AluraTips",
+            "imagen": "https://img.youtube.com/vi/-Ou5c3A225k/maxresdefault.jpg",
+            "categoria": "Front End",
+            "decripcion": "Conoce qué es JavaScript y cómo puedes volverte un desarrollador Front End con este video de Alura Latam."
+        },
+        {
+            "id": 3,
+            "titulo": "Equipo front end",
+            "video": "Currículum, qué incluir y qué dejar fuera #AluraMás",
+            "imagen": "https://img.youtube.com/vi/nzVdLC_QpnA/maxresdefault.jpg",
+            "categoria": "Front End",
+            "descripcion": "En este video, Jeanmarie Quijada, instructora Front End en Alura Latam te explica qué hace el equipo de Front End."
+        }
+
+   
+    ]
+}
